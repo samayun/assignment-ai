@@ -1,0 +1,1 @@
+python3 -m venv venv && source venv/bin/activate && watchmedo auto-restart --patterns="*.py" --recursive -- python3 linear-regression.py

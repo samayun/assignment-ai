@@ -1,0 +1,10 @@
+numpy
+scikit-learn
+matplotlib
+pandas
+seaborn
+scipy
+# tensorflow
+langchain 
+ollama 
+pypdf
